@@ -1,0 +1,2 @@
+# Music_Recommendation_System
+ This project is a Music Recommendation System that leverages Natural Language Processing (NLP) techniques to analyze user inputs and recommend songs based on their emotional state. Users can express their feelings in text, and the system will detect the emotion and suggest relevant songs from a curated list. The recommendations can be made in both English and Hindi, making it accessible to a broader audience.
